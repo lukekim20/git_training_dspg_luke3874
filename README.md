@@ -1,3 +1,4 @@
+
 # Intro to git for DSPG
 
 - `git init` : initializes a repository
@@ -7,3 +8,4 @@
 - *this* is italics, **this is bold**
 
 
+I added this line `and this code`
