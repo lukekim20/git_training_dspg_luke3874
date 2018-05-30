@@ -7,5 +7,4 @@
 
 - *this* is italics, **this is bold**
 
-
-I added this line `and this code`
+- `git commit -m "hello"` will let you commit
