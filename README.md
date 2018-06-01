@@ -1,4 +1,7 @@
 
+# adding a line from myb2
+
+
 # Intro to git for DSPG
 
 - `git init` : initializes a repository
