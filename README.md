@@ -13,3 +13,5 @@
 - use `git branch MY_BRANCH_NAME` to create a new branch
 - use `git checkout MY_BRANCH_NAME` to go to that branch.
 - look at where things are with `git log --oneline --all`
+
+# add with master branch
