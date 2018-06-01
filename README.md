@@ -1,7 +1,6 @@
 
-# adding a line from myb2
-
-
+# adding this with my_first_branch 
+>>>>>>> my_first_branch
 # Intro to git for DSPG
 
 - `git init` : initializes a repository
