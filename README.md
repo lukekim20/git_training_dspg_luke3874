@@ -9,4 +9,4 @@
 
 - `git commit -m "hello"` will let you commit
 
-- add one line
+ Friday review
