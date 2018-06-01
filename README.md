@@ -1,6 +1,4 @@
-
-# adding this with my_first_branch 
->>>>>>> my_first_branch
+changes made with the new branch
 # Intro to git for DSPG
 
 - `git init` : initializes a repository
@@ -16,4 +14,3 @@
 - use `git checkout MY_BRANCH_NAME` to go to that branch.
 - look at where things are with `git log --oneline --all`
 
-# add with master branch
