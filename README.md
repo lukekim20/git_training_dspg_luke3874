@@ -9,4 +9,4 @@
 
 - `git commit -m "hello"` will let you commit
 
-- hello
+- add one line
