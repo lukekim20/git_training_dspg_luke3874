@@ -9,8 +9,4 @@
 
 - `git commit -m "hello"` will let you commit
 
- Friday review
 
-adding a seocnd line
-
-on R, added a line
